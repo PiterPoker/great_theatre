@@ -1,0 +1,166 @@
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\great_theatre.dll.config
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\great_theatre.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\great_theatre.pdb
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Antlr3.Runtime.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\EntityFramework.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\EntityFramework.SqlServer.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.AspNet.Identity.Core.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Cookies.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Facebook.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Google.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.OAuth.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Twitter.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Web.Infrastructure.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Newtonsoft.Json.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Ninject.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Ninject.Web.Common.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Ninject.Web.Mvc.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Owin.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Helpers.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Mvc.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Optimization.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Razor.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.WebPages.Deployment.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.WebPages.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.WebPages.Razor.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\WebActivatorEx.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\WebGrease.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Antlr3.Runtime.pdb
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Newtonsoft.Json.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Ninject.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Ninject.Web.Common.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Ninject.Web.Mvc.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Helpers.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Mvc.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Optimization.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.Razor.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.WebPages.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.WebPages.Deployment.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\System.Web.WebPages.Razor.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\EntityFramework.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\EntityFramework.SqlServer.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.AspNet.Identity.Core.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Facebook.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Cookies.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.OAuth.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Google.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.Twitter.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\System.Web.Helpers.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\System.Web.Mvc.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\System.Web.Optimization.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\System.Web.Razor.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\System.Web.WebPages.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\EntityFramework.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.Owin.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\obj\Debug\great_theatre.dll
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\obj\Debug\great_theatre.pdb
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\obj\Debug\great_theatre.csprojResolveAssemblyReference.cache
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\obj\Debug\great_theatre.Migrations.DataMigration.resources
+D:\programms_and_project\Visual Studio 2013\C#\great_theatre\great_theatre\obj\Debug\great_theatre.csproj.GenerateResource.Cache
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\great_theatre.dll.config
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\great_theatre.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\great_theatre.pdb
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Antlr3.Runtime.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\EntityFramework.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\EntityFramework.SqlServer.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Google.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Web.Infrastructure.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Newtonsoft.Json.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Ninject.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Ninject.Web.Common.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Ninject.Web.Mvc.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Owin.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Helpers.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Mvc.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Optimization.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Razor.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.WebPages.Deployment.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.WebPages.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.WebPages.Razor.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\WebActivatorEx.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\WebGrease.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Antlr3.Runtime.pdb
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Newtonsoft.Json.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Ninject.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Ninject.Web.Common.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Ninject.Web.Mvc.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Helpers.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Mvc.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Optimization.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.Razor.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.WebPages.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.WebPages.Deployment.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\System.Web.WebPages.Razor.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\EntityFramework.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\EntityFramework.SqlServer.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Google.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\System.Web.Helpers.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\System.Web.Mvc.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\System.Web.Optimization.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\System.Web.Razor.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\System.Web.WebPages.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\EntityFramework.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.Owin.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\obj\Debug\great_theatre.csprojResolveAssemblyReference.cache
+D:\Курсовые\great_theatre - резервная копия\great_theatre\obj\Debug\great_theatre.Migrations.DataMigration.resources
+D:\Курсовые\great_theatre - резервная копия\great_theatre\obj\Debug\great_theatre.csproj.GenerateResource.Cache
+D:\Курсовые\great_theatre - резервная копия\great_theatre\obj\Debug\great_theatre.dll
+D:\Курсовые\great_theatre - резервная копия\great_theatre\obj\Debug\great_theatre.pdb

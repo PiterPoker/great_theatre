@@ -1,0 +1,25 @@
+﻿@model List<great_theatre.Models.Search>
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Search</h2>
+
+<table class="table">
+
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Scenes.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Performances.Name)
+        </td>
+  
+    </tr>
+}
+
+</table>

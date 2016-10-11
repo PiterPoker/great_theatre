@@ -1,0 +1,91 @@
+﻿@model great_theatre.Models.Entities.Actor
+
+@{
+    ViewBag.Title = "addActor";
+    Layout = "~/Views/Admin/_Layout.cshtml";
+}
+
+<div id="page-wrapper">
+    <div class="graphs">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="col-md-8 inbox_right">
+                <div class="Compose-Message">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Доавление новой постановки
+                        </div>
+
+                        <div class="panel-body">
+
+
+                            @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+
+                            <hr>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.FirstName, htmlAttributes: new {@class = "control-label col-md-2"})
+                                @Html.EditorFor(model => model.FirstName, new {htmlAttributes = new {@class = "form-control1 control3"}})
+                                @Html.ValidationMessageFor(model => model.FirstName, "", new {@class = "text-danger"})
+                            </div>
+                            <div class="form-group">
+
+                                @Html.LabelFor(model => model.LastName, htmlAttributes: new {@class = "control-label col-md-2"})
+                                @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control1 control3" } })
+                                @Html.ValidationMessageFor(model => model.LastName, "", new {@class = "text-danger"})
+                                
+                                <hr>
+                                <input type="submit" value="Добавить" class="btn btn-warning btn-warng1"/>
+                            </div>
+                        </div>
+                        </div>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        }
+        <div>
+            @Html.ActionLink("Главная", "Index", null, new { @class = "btn btn-warning btn-warng1" })
+        </div>
+    </div>
+</div>
+
+
+
+@*<h2>addActor</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Actor</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@

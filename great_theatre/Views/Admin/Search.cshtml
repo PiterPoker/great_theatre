@@ -1,0 +1,50 @@
+﻿@model IEnumerable<great_theatre.Models.Entities.Message>
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Admin/_Layout.cshtml";
+}
+
+<h2>Search</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IsCheck)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsFavorute)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comment)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsCheck)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsFavorute)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comment)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+     </tr>
+}
+
+</table>
